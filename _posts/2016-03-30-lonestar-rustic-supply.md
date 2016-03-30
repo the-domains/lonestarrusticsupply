@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: "Welcome to your online shop for all things rustic!  We're glad you're here..."
-datePublished: '2016-03-30T13:38:34.468Z'
-dateModified: '2016-03-30T13:36:53.743Z'
+datePublished: '2016-03-30T13:47:55.403Z'
+dateModified: '2016-03-30T13:47:52.874Z'
 title: Lonestar Rustic Supply
 author: []
 sourcePath: _posts/2016-03-30-lonestar-rustic-supply.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: lonestar-rustic-supply/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b027bb6-fe81-4289-bb29-cfe215f5fd60.jpg)
@@ -28,4 +28,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fa8b992-4bf5-4fec-b850-8a7281803a41.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/edb40a2d-a516-49b7-b0be-b1ddd02b0fc0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/887bec6a-2379-4567-826d-6d5870ba33e5.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9faf66cd-fe31-432b-ba1a-c5132b752598.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d95b70d-539b-41da-9cfd-81605cca1df1.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fac3bc80-b1f3-461c-9741-296cd02f2378.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/496fad2c-ba7e-4a67-859f-92a360d5ca08.jpg)
