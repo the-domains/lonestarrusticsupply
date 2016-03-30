@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-30T15:04:59.957Z'
-dateModified: '2016-03-30T15:00:16.685Z'
+datePublished: '2016-03-30T20:10:32.109Z'
+dateModified: '2016-03-30T20:10:20.939Z'
 title: "Welcome to your online shop for all things rustic!  We're glad you're here..."
 author: []
 sourcePath: _posts/2016-03-30-lonestar-rustic-supply.md
