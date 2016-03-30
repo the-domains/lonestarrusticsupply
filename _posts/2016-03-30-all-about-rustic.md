@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: 'Rustic is a variety of styles, patterns, fashions, and lifestyles.  It’s the little girl with a ruffles and lace dress.  It’s a home filled with decor of burlap and flowers.  It’s the hunter or huntress covered in camo or the rodeo cowgirl with tassles and conchos.  It is a mix of country, vintage, cowgirl, chic, shabby, antiqued, western, and more…'
-datePublished: '2016-03-30T22:49:52.054Z'
-dateModified: '2016-03-30T22:49:07.083Z'
+datePublished: '2016-03-30T22:52:13.068Z'
+dateModified: '2016-03-30T22:51:37.820Z'
 title: What is Rustic?
 author: []
 sourcePath: _posts/2016-03-30-all-about-rustic.md
@@ -19,6 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+url: what-is-rustic/index.html
 _type: Blurb
 
 ---
