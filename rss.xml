@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[ ]]></title>
         <description><![CDATA[ ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lonestarrusticsupply/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 21:18:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Mar 2016 21:25:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lonestarrusticsupply/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Welcome to Lonestar Rustic Supply!  We're glad you're here.  Kick off your boots, put your feet up, and take a look around... you're sure to find just what you're looking for.  ]]></title>
-            <description><![CDATA[<article><h1>Welcome to Lonestar Rustic Supply!  We're glad you're here.  Kick off your boots, put your feet up, and take a look around... you're sure to find just what you're looking for.  </h1><h2>Click Shop Now! to get started...</h2><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e81f1ac6f20f031765d72294f3ddc096915f200.jpg"></article>]]></description>
-            <link>undefined2313675a-67a1-4386-9ab5-76845e9a76db/index.html</link>
+            <title><![CDATA[ ]]></title>
+            <description><![CDATA[<article><h1></h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e81f1ac6f20f031765d72294f3ddc096915f200.jpg"></article>]]></description>
+            <link>https://thegrid.ai/lonestarrusticsupply/2313675a-67a1-4386-9ab5-76845e9a76db/index.html</link>
             <guid isPermaLink="false">2313675a-67a1-4386-9ab5-76845e9a76db</guid>
-            <pubDate>Wed, 30 Mar 2016 21:18:41 GMT</pubDate>
+            <pubDate>Wed, 30 Mar 2016 21:25:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
