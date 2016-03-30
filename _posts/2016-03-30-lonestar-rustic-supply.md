@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-30T14:30:19.116Z'
-dateModified: '2016-03-30T14:30:00.816Z'
-title: "Welcome to your online shop for all things rustic!  We're glad you're here..."
+datePublished: '2016-03-30T14:35:51.210Z'
+dateModified: '2016-03-30T14:35:43.026Z'
+title: ' '
 author: []
 sourcePath: _posts/2016-03-30-lonestar-rustic-supply.md
 published: true
@@ -22,18 +22,8 @@ url: welcome-to-your-online-shop-for-all-things-rustic-were-gl/index.html
 _type: WebPage
 
 ---
-# Welcome to your online shop for all things rustic! We're glad you're here...
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/99fde28a-be47-43c8-aa0a-f7e702749575.jpg)
 
-# Rustic is a variety of styles, patterns, fashions, and lifestyles.  It's the little girl with a ruffles and lace dress.  It's a home filled with decor of burlap and flowers.  It's the hunter or huntress covered in camo or the rodeo cowgirl with tassles and conchos.  It is a mix of country, vintage, cowgirl, chic, shabby, antiqued, western, and more...
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/edb40a2d-a516-49b7-b0be-b1ddd02b0fc0.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b027bb6-fe81-4289-bb29-cfe215f5fd60.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fa8b992-4bf5-4fec-b850-8a7281803a41.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/887bec6a-2379-4567-826d-6d5870ba33e5.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d95b70d-539b-41da-9cfd-81605cca1df1.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fac3bc80-b1f3-461c-9741-296cd02f2378.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/496fad2c-ba7e-4a67-859f-92a360d5ca08.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/301351c9-1d79-4252-a831-aba38e6b5d17.jpg)
+Welcome to your online shop for all things rustic! We're glad you're here...
 
-  
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/218fed3c-3334-415a-a657-cfc91db0992e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/85aab573-b3e6-4038-a408-37e614884ecd.jpg)
+#
