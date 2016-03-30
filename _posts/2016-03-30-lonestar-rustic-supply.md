@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Welcome to your online shop for all things rustic!  We're glad you're here..."
-datePublished: '2016-03-30T13:32:33.552Z'
-dateModified: '2016-03-30T13:32:33.048Z'
+datePublished: '2016-03-30T13:38:34.468Z'
+dateModified: '2016-03-30T13:36:53.743Z'
 title: Lonestar Rustic Supply
 author: []
 sourcePath: _posts/2016-03-30-lonestar-rustic-supply.md
@@ -28,3 +28,4 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fa8b992-4bf5-4fec-b850-8a7281803a41.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/edb40a2d-a516-49b7-b0be-b1ddd02b0fc0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/887bec6a-2379-4567-826d-6d5870ba33e5.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9faf66cd-fe31-432b-ba1a-c5132b752598.jpg)
