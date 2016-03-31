@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Rustic is a variety of styles, patterns, fashions, and lifestyles.  It’s the little girl with a ruffles and lace dress.  It’s a home filled with decor of burlap and flowers.  It’s the hunter or huntress covered in camo or the rodeo cowgirl with tassles and conchos.  It is a mix of country, vintage, cowgirl, chic, shabby, antiqued, western, and more…'
-datePublished: '2016-03-31T00:13:39.412Z'
-dateModified: '2016-03-31T00:12:25.908Z'
+datePublished: '2016-03-31T00:14:07.015Z'
+dateModified: '2016-03-31T00:14:04.897Z'
 title: What is Rustic?
 author: []
 sourcePath: _posts/2016-03-30-all-about-rustic.md
