@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Ruffles and Lace, Burlap and Flowers'
-datePublished: '2016-03-31T00:20:14.041Z'
-dateModified: '2016-03-31T00:20:01.327Z'
+datePublished: '2016-03-31T00:31:34.928Z'
+dateModified: '2016-03-31T00:31:30.463Z'
 title: What is Rustic?
 author: []
 sourcePath: _posts/2016-03-30-all-about-rustic.md
