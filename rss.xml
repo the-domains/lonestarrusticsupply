@@ -4,7 +4,7 @@
         <description><![CDATA[ ]]></description>
         <link>https://thegrid.ai/lonestarrusticsupply/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 00:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 00:19:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lonestarrusticsupply/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What is Rustic?]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/lonestarrusticsupply/shop-now/index.html</link>
             <guid isPermaLink="false">d7c5080e-b184-4d51-8815-b0c12ed9f072</guid>
             <pubDate>Thu, 31 Mar 2016 00:19:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Come on in...]]></title>
-            <description><![CDATA[<article><h1>Come on in...</h1><p>Welcome</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f6c0c7b7be716f03b1a9a8d2e2a022a7ce47385.jpg"></article>]]></description>
-            <link>https://thegrid.ai/lonestarrusticsupply/come-on-in/index.html</link>
-            <guid isPermaLink="false">1f565870-e31e-4778-8a7a-29bf75d02ad4</guid>
-            <pubDate>Thu, 31 Mar 2016 00:13:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
