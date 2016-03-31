@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: 'Ruffles and Lace, Burlap and Flowers'
-datePublished: '2016-03-31T00:16:59.696Z'
-dateModified: '2016-03-31T00:16:50.540Z'
+datePublished: '2016-03-31T00:20:14.041Z'
+dateModified: '2016-03-31T00:20:01.327Z'
 title: What is Rustic?
 author: []
 sourcePath: _posts/2016-03-30-all-about-rustic.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: what-is-rustic/index.html
-_type: Article
+_type: Blurb
 
 ---
 # What is Rustic?
